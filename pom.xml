@@ -24,4 +24,11 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+		<dependency>
+	      <groupId>earlgrey</groupId>
+	      <artifactId>earlgrey</artifactId>
+	      <version>0.4.0</version>
+	    </dependency>
+	</dependencies>
 </project>
